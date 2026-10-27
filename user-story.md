@@ -1,10 +1,14 @@
 # User Story Template
 
-## User Story Format
+## As a [role], I need [function], So that [benefit].
 
-**As a** [role],
-**I need** [function],
-**So that** [benefit].
+### Acceptance Criteria
+
+```
+Given [some context]
+When [some action is carried out]
+Then [a set of observable outcomes should occur]
+```
 
 ---
 
